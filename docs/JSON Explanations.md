@@ -153,7 +153,7 @@ It should look like:
 	- Required for Osu commands
 	- You can get this key [here.](https://osu.ppy.sh/p/api) 
 - **CleverbotApiKey**
-	- Required if you want to use official cleverobot, instead of program-o
+	- Required if you want to use official cleverbot, instead of program-o
 	- you can get this key [here.](http://www.cleverbot.com/api/)
 - **PatreonAccessToken**
 	- For Patreon creators only.
